@@ -21,3 +21,5 @@ Related
 -------
 
 - https://github.com/sheehan/job-dsl-gradle-example
+
+Zajecia 21-06-2020
